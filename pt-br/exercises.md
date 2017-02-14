@@ -11,20 +11,15 @@ não deverá haver espaços entre o seu primeiro e o segundo nome.
 Para cada exercício crie um diretório com o seu nome e dentro do diretório com o seu nome crie um diretório para cada exercício.
 
 
-## HTML Básico
-
-  1. Exercício Um
-  1. Exercício Dois
-
-## Listas
-
-  1. Exercício Um
-  1. Exercício Dois
-  
-## Link
-
-  1. Exercício Um
-  1. Exercício Dois
+	1. HTML Básico
+		1. Exercício Um
+		1. Exercício Dois
+	1. Listas
+		1. Exercício Um
+		1. Exercício Dois
+	1. Link
+		1. Exercício Um
+		1. Exercício Dois
 
 ## Imagem
 
