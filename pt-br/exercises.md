@@ -4,7 +4,7 @@ Lista de exercícios para a prática da Linguagem de Marcação de Hipertexto, H
 
 ## Instruções
 
-Antes de realizar os exercícios desta lista faça um *fork* deste projeto para a sua conta do GitHub e logo após faça
+Antes de realizar os exercícios desta lista faça um *fork* deste projeto para a sua conta do GitHub e, logo após, faça
 o clone do seu *fork* para o seu local de trabalho. 
 
 Crie um diretório com o seu nome na raiz do projeto seguindo o padrão "nome-sobrenome". Para cada exercício 
