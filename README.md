@@ -2,5 +2,5 @@
 
 A list of exercises to practice HTML.
 
-* [Brazilian Portuguese](pt-br/exercises.md)
-* [English](en/exercises.md)
+* 🇧🇷 [Brazilian Portuguese](pt-br/exercises.md)
+* :us: [English](en/exercises.md)
