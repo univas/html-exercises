@@ -25,27 +25,29 @@ Bons estudos!
 
 ## Lista de exercícios
 
-1. HTML Básico
+Segue abaixo a lista de exercício para a prática da linguagem HTML.
+
+1. **HTML Básico**
 	1. Exercício Um
 	1. Exercício Dois
-1. Listas
+1. **Listas**
 	1. Exercício Um
 	1. Exercício Dois
-1. Link
+1. **Link**
 	1. Exercício Um
 	1. Exercício Dois
-1. Imagem
+1. **Imagem**
 	1. Exercício Um
 	1. Exercício Dois
-1. Tabela
+1. **Tabela**
 	1. Exercício Um
 	1. Exercício Dois
-1. Formulários
+1. **Formulários**
 	1. Exercício Um
 	1. Exercício Dois
-1. Audio
+1. **Audio**
 	1. Exercício Um
 	1. Exercício Dois
-1. Vídeo
+1. **Vídeo**
 	1. Exercício Um
 	1. Exercício Dois
