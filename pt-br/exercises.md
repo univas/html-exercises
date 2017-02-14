@@ -5,8 +5,8 @@ Essa é uma lista de exercícios para a prática da Linguagem de Marcação de H
 ## Instrunções
 
 Antes de realizar os exercícios desta lista faça um fork deste projeto para sua conta do GitHube e assim que você fizer 
-o clone do seu fork para sua máquina crie um diretório com o seu nomena raíz do projeto seguindo este padrão (edy-segura), 
-não deverá haver espaços entre o seu primeiro e o segundo nome.
+o clone do seu fork para sua máquina crie um diretório com o seu nomena raíz do projeto seguindo este padrão (nome-sobrenome), 
+não deverá haver espaços entre o seu nome e o sobrenome.
 
 Para cada exercício crie um diretório com a sua respectiva numeração abaixo e ao finalizar cada exercício crie um pull-request para a avaliação.
 
