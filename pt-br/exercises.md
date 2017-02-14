@@ -14,7 +14,8 @@ crie um sub-diretório nomeando-o com a sua respectiva numeração conforme a li
 html-exercises/
 |
 |-- joao-da-silva/            
-|   |-- 1.i/ 
+|   |-- 1.i/
+|   |-- 1.ii/
 ```
 
 Caso você não esteja familiar com os termos *fork*, *clone* e *pull request* é recomendado o que seja feito esse  
