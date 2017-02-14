@@ -8,8 +8,9 @@ Antes de realizar os exercícios desta lista faça um fork deste projeto para su
 o clone do seu fork para sua máquina crie um diretório com o seu nomena raíz do projeto seguindo este padrão (edy-segura), 
 não deverá haver espaços entre o seu primeiro e o segundo nome.
 
-Para cada exercício crie um diretório com o seu nome e dentro do diretório com o seu nome crie um diretório para cada exercício.
+Para cada exercício crie um diretório com a sua respectiva numeração abaixo e ao finalizar cada exercício crie um pull-request para a avaliação.
 
+## Lista de exercícios
 
 1. HTML Básico
 	1. Exercício Um
