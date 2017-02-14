@@ -10,6 +10,9 @@ não deverá haver espaços entre o seu primeiro e o segundo nome.
 
 Para cada exercício crie um diretório com a sua respectiva numeração abaixo e ao finalizar cada exercício crie um pull-request para a avaliação.
 
+Caso você não esteja familiar com os termos *fork*, *clone* e *pull request* recomendo 
+[esse excelente curso sobre Git e GitHub](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes) para iniciantes.
+
 ## Lista de exercícios
 
 1. HTML Básico
