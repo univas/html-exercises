@@ -1,19 +1,19 @@
 # Introdução
 
-Essa é uma lista de exercícios para a prática da Linguagem de Marcação de Hipertexto, HTML - HyperText Markup Language.
+Lista de exercícios para a prática da Linguagem de Marcação de Hipertexto, HTML - HyperText Markup Language.
 
-## Instrunções
+## Instruções
 
-Antes de realizar os exercícios desta lista faça um *fork* deste projeto para sua conta do GitHub e logo após faça
+Antes de realizar os exercícios desta lista faça um *fork* deste projeto para a sua conta do GitHub e logo após faça
 o clone do seu *fork* para o seu local de trabalho. 
 
-Crie um diretório com o seu nome na raíz do projeto seguindo este padrão (nome-sobrenome), no lugar do espaço utilize "-". Para cada exercício 
-crie um diretório dentro do diretório criado acima com a sua respectiva numeração abaixo e ao finalizar cada exercício crie um *pull request* para a avaliação.
+Crie um diretório com o seu nome na raiz do projeto seguindo o padrão "nome-sobrenome". Para cada exercício 
+crie um sub-diretório nomeando-o com a sua respectiva numeração conforme a lista abaixo e, ao finalizar cada exercício, crie um *pull request* para a avaliação.
 
-Caso você não esteja familiar com os termos *fork*, *clone* e *pull request* recomendo 
-[esse excelente curso sobre Git e GitHub](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes) para iniciantes.
+Caso você não esteja familiar com os termos *fork*, *clone* e *pull request* é recomendado o que seja feito esse  
+[excelente curso sobre Git e GitHub](http://willianjusten.teachable.com/p/git-e-github-para-iniciantes) para iniciantes.
 
-Boms estudos!
+Bons estudos!
 
 ## Lista de exercícios
 
