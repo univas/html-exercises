@@ -1,10 +1,15 @@
-# Lista de exercícios
+# Introdução
 
-Uma lista de exercícios para a prática da Linguagem de Marcação de Hipertexto, HTML - HyperText Markup Language.
+Essa é uma lista de exercícios para a prática da Linguagem de Marcação de Hipertexto, HTML - HyperText Markup Language.
 
 ## Instrunções
 
-Para realizar os exercícios primeiro faça o fork deste projeto e logo após na raíz do projeto crie um diretório com o seu nome e dentro do diretório com o seu nome crie um diretório para cada exercício.
+Antes de realizar os exercícios desta lista faça um fork deste projeto para sua conta do GitHube e assim que você fizer 
+o clone do seu fork para sua máquina crie um diretório com o seu nomena raíz do projeto seguindo este padrão (edy-segura), 
+não deverá haver espaços entre o seu primeiro e o segundo nome.
+
+Para cada exercício crie um diretório com o seu nome e dentro do diretório com o seu nome crie um diretório para cada exercício.
+
 
 ## HTML Básico
 
