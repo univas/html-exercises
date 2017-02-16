@@ -29,16 +29,13 @@ Bons estudos!
 Segue abaixo a lista de exercício para a prática da linguagem HTML.
 
 1. **HTML Básico**
-	1. Criar uma página para o curso de Sistemas de Informação
-1. **Link**
-	1. Em breve
-1. **Imagem**
-	1. Em breve
+    1. [Criar uma página para o curso de Sistemas de Informação](1.i/exercise.md)
+    1. Curriculum vitae
 1. **Tabela**
-	1. Em breve
+    1. Em breve
 1. **Formulários**
-	1. Em breve
+    1. Em breve
 1. **Audio**
-	1. Em breve
+    1. Em breve
 1. **Vídeo**
-	1. Em breve
+    1. Em breve
