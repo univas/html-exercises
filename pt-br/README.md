@@ -13,10 +13,15 @@ crie um *pull request* para a avaliação. Exemplo:
 
 ```
 html-exercises/
+|-- en/
+|-- pt-br/
 |-- joao-da-silva/
 |   |-- 1.i/
 |   |   |-- index.html
 |   |-- 1.ii/
+|   |   |-- index.html
+|-- LICENSE
+|-- README.md
 ```
 
 Caso você não esteja familiar com os termos *fork*, *clone* e *pull request* é recomendado o que seja feito esse  
